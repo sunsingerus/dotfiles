@@ -1,4 +1,5 @@
 [user]
 	email = sunsingerus@gmail.com
 	name = Vladislav Klimenko
-
+[credential]
+	helper = cache --timeout=72000
